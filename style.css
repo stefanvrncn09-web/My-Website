@@ -4,6 +4,7 @@ img{
 body{
     text-align: center;
     font-family: 'Arial';
-    background: ForestGreen;
-    color: DarkRed;
+    background: Snow;
+    
+    h1{color: indianred;}
 }
