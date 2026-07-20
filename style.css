@@ -3,10 +3,20 @@ img{
 }
 body{
     text-align: center;
-    font-family: 'Arial';
+    font-family: "Comic Sans MS" , arial;
     background: Snow;
 }
 h1{
-    color: indianred;
-    
+    color: red;
+    background-color: lightskyblue;
+    border-style: solid;
+    border-width: 3px;
+    border-color: red;
+    border-left-width:10px;
+    border-right-width: 10px;
+}
+strong {
+    text-align:left;
+    font-style: italic;
+    text-transform: uppercase;
 }
